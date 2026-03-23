@@ -1,0 +1,852 @@
+[00:00:01.218] Server  LOG      ✓ Ready in 903ms
+[00:00:10.190] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:41.120] Browser WARN    Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+[01:20:30.661] Server  ERROR    ⨯ ./app/layout.js:2:1
+Module not found: Can't resolve '@/components/SiteShell'
+  1 | import "./globals.css";
+> 2 | import { Header, Footer, FloatingCallButton } from "@/components/SiteShell";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "Summora Cabinetry",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:20:30.671] Server  ERROR    ⨯ ./app/layout.js:2:1
+Module not found: Can't resolve '@/components/SiteShell'
+  1 | import "./globals.css";
+> 2 | import { Header, Footer, FloatingCallButton } from "@/components/SiteShell";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "Summora Cabinetry",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:20:30.674] Server  ERROR    ⨯ ./app/layout.js:2:1
+Module not found: Can't resolve '@/components/SiteShell'
+  1 | import "./globals.css";
+> 2 | import { Header, Footer, FloatingCallButton } from "@/components/SiteShell";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "Summora Cabinetry",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:20:30.675] Server  ERROR    ⨯ ./app/layout.js:2:1
+Module not found: Can't resolve '@/components/SiteShell'
+  1 | import "./globals.css";
+> 2 | import { Header, Footer, FloatingCallButton } from "@/components/SiteShell";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "Summora Cabinetry",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:20:30.683] Server  ERROR    ⨯ ./app/contact/page.js:1:1
+Module not found: Can't resolve '@/components/siteData'
+> 1 | import { phoneDisplay, phoneHref } from "@/components/siteData";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export const metadata = { title: "Contact | Summora Cabinetry" };
+  4 |
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:20:30.687] Server  ERROR    ⨯ ./app/contact/page.js:1:1
+Module not found: Can't resolve '@/components/siteData'
+> 1 | import { phoneDisplay, phoneHref } from "@/components/siteData";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export const metadata = { title: "Contact | Summora Cabinetry" };
+  4 |
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:20:30.692] Server  ERROR    ⨯ ./app/contact/page.js:1:1
+Module not found: Can't resolve '@/components/siteData'
+> 1 | import { phoneDisplay, phoneHref } from "@/components/siteData";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export const metadata = { title: "Contact | Summora Cabinetry" };
+  4 |
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:20:30.700] Server  ERROR    ⨯ ./app/layout.js:2:1
+Module not found: Can't resolve '@/components/SiteShell'
+  1 | import "./globals.css";
+> 2 | import { Header, Footer, FloatingCallButton } from "@/components/SiteShell";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "Summora Cabinetry",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:20:30.701] Server  ERROR    ⨯ ./app/layout.js:2:1
+Module not found: Can't resolve '@/components/SiteShell'
+  1 | import "./globals.css";
+> 2 | import { Header, Footer, FloatingCallButton } from "@/components/SiteShell";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "Summora Cabinetry",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:20:30.703] Server  ERROR    ⨯ ./app/layout.js:2:1
+Module not found: Can't resolve '@/components/SiteShell'
+  1 | import "./globals.css";
+> 2 | import { Header, Footer, FloatingCallButton } from "@/components/SiteShell";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "Summora Cabinetry",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:20:30.703] Server  ERROR    ⨯ ./app/layout.js:2:1
+Module not found: Can't resolve '@/components/SiteShell'
+  1 | import "./globals.css";
+> 2 | import { Header, Footer, FloatingCallButton } from "@/components/SiteShell";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "Summora Cabinetry",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:20:30.710] Server  ERROR    ⨯ ./app/layout.js:2:1
+Module not found: Can't resolve '@/components/SiteShell'
+  1 | import "./globals.css";
+> 2 | import { Header, Footer, FloatingCallButton } from "@/components/SiteShell";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "Summora Cabinetry",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:20:30.716] Server  ERROR    ⨯ ./app/layout.js:2:1
+Module not found: Can't resolve '@/components/SiteShell'
+  1 | import "./globals.css";
+> 2 | import { Header, Footer, FloatingCallButton } from "@/components/SiteShell";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "Summora Cabinetry",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:20:30.716] Server  ERROR    ⨯ ./app/layout.js:2:1
+Module not found: Can't resolve '@/components/SiteShell'
+  1 | import "./globals.css";
+> 2 | import { Header, Footer, FloatingCallButton } from "@/components/SiteShell";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "Summora Cabinetry",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:20:30.717] Server  ERROR    ⨯ ./app/layout.js:2:1
+Module not found: Can't resolve '@/components/SiteShell'
+  1 | import "./globals.css";
+> 2 | import { Header, Footer, FloatingCallButton } from "@/components/SiteShell";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "Summora Cabinetry",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:20:30.722] Server  ERROR    ⨯ ./app/layout.js:2:1
+Module not found: Can't resolve '@/components/SiteShell'
+  1 | import "./globals.css";
+> 2 | import { Header, Footer, FloatingCallButton } from "@/components/SiteShell";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "Summora Cabinetry",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:20:30.723] Server  ERROR    ⨯ ./app/layout.js:2:1
+Module not found: Can't resolve '@/components/SiteShell'
+  1 | import "./globals.css";
+> 2 | import { Header, Footer, FloatingCallButton } from "@/components/SiteShell";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "Summora Cabinetry",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:20:30.724] Server  ERROR    ⨯ ./app/layout.js:2:1
+Module not found: Can't resolve '@/components/SiteShell'
+  1 | import "./globals.css";
+> 2 | import { Header, Footer, FloatingCallButton } from "@/components/SiteShell";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "Summora Cabinetry",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:20:30.724] Server  ERROR    ⨯ ./app/layout.js:2:1
+Module not found: Can't resolve '@/components/SiteShell'
+  1 | import "./globals.css";
+> 2 | import { Header, Footer, FloatingCallButton } from "@/components/SiteShell";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "Summora Cabinetry",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:20:30.725] Server  ERROR    ⨯ ./app/gallery/page.js:1:1
+Module not found: Can't resolve '@/components/siteData'
+> 1 | import { styleSections } from "@/components/siteData";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export const metadata = { title: "Gallery | Summora Cabinetry" };
+  4 |
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:20:30.726] Server  ERROR    ⨯ ./app/gallery/page.js:1:1
+Module not found: Can't resolve '@/components/siteData'
+> 1 | import { styleSections } from "@/components/siteData";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export const metadata = { title: "Gallery | Summora Cabinetry" };
+  4 |
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:20:30.730] Server  ERROR    ⨯ ./app/layout.js:2:1
+Module not found: Can't resolve '@/components/SiteShell'
+  1 | import "./globals.css";
+> 2 | import { Header, Footer, FloatingCallButton } from "@/components/SiteShell";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "Summora Cabinetry",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:20:30.731] Server  ERROR    ⨯ ./app/layout.js:2:1
+Module not found: Can't resolve '@/components/SiteShell'
+  1 | import "./globals.css";
+> 2 | import { Header, Footer, FloatingCallButton } from "@/components/SiteShell";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "Summora Cabinetry",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:20:30.731] Server  ERROR    ⨯ ./app/layout.js:2:1
+Module not found: Can't resolve '@/components/SiteShell'
+  1 | import "./globals.css";
+> 2 | import { Header, Footer, FloatingCallButton } from "@/components/SiteShell";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "Summora Cabinetry",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:20:30.731] Server  ERROR    ⨯ ./app/layout.js:2:1
+Module not found: Can't resolve '@/components/SiteShell'
+  1 | import "./globals.css";
+> 2 | import { Header, Footer, FloatingCallButton } from "@/components/SiteShell";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "Summora Cabinetry",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:20:30.740] Server  ERROR    ⨯ ./app/page.js:2:1
+Module not found: Can't resolve '@/components/siteData'
+  1 | import Link from "next/link";
+> 2 | import { phoneDisplay, phoneHref, styleSections } from "@/components/siteData";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | const heroImage = styleSections[0].images[0];
+  5 |
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:20:30.743] Server  ERROR    ⨯ ./app/page.js:2:1
+Module not found: Can't resolve '@/components/siteData'
+  1 | import Link from "next/link";
+> 2 | import { phoneDisplay, phoneHref, styleSections } from "@/components/siteData";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | const heroImage = styleSections[0].images[0];
+  5 |
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:20:30.744] Server  ERROR    ⨯ ./app/page.js:2:1
+Module not found: Can't resolve '@/components/siteData'
+  1 | import Link from "next/link";
+> 2 | import { phoneDisplay, phoneHref, styleSections } from "@/components/siteData";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | const heroImage = styleSections[0].images[0];
+  5 |
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:20:30.747] Server  ERROR    ⨯ ./app/page.js:2:1
+Module not found: Can't resolve '@/components/siteData'
+  1 | import Link from "next/link";
+> 2 | import { phoneDisplay, phoneHref, styleSections } from "@/components/siteData";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | const heroImage = styleSections[0].images[0];
+  5 |
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:20:30.755] Server  ERROR    ⨯ ./app/layout.js:2:1
+Module not found: Can't resolve '@/components/SiteShell'
+  1 | import "./globals.css";
+> 2 | import { Header, Footer, FloatingCallButton } from "@/components/SiteShell";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "Summora Cabinetry",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:20:30.757] Server  ERROR    ⨯ ./app/layout.js:2:1
+Module not found: Can't resolve '@/components/SiteShell'
+  1 | import "./globals.css";
+> 2 | import { Header, Footer, FloatingCallButton } from "@/components/SiteShell";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "Summora Cabinetry",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:20:30.757] Server  ERROR    ⨯ ./app/layout.js:2:1
+Module not found: Can't resolve '@/components/SiteShell'
+  1 | import "./globals.css";
+> 2 | import { Header, Footer, FloatingCallButton } from "@/components/SiteShell";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "Summora Cabinetry",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:20:30.757] Server  ERROR    ⨯ ./app/layout.js:2:1
+Module not found: Can't resolve '@/components/SiteShell'
+  1 | import "./globals.css";
+> 2 | import { Header, Footer, FloatingCallButton } from "@/components/SiteShell";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "Summora Cabinetry",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:20:30.760] Server  ERROR    ⨯ ./app/page.js:2:1
+Module not found: Can't resolve '@/components/siteData'
+  1 | import Link from "next/link";
+> 2 | import { phoneDisplay, phoneHref, styleSections } from "@/components/siteData";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | const heroImage = styleSections[0].images[0];
+  5 |
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:20:30.761] Server  ERROR    ⨯ ./app/page.js:2:1
+Module not found: Can't resolve '@/components/siteData'
+  1 | import Link from "next/link";
+> 2 | import { phoneDisplay, phoneHref, styleSections } from "@/components/siteData";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | const heroImage = styleSections[0].images[0];
+  5 |
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:20:30.765] Server  ERROR    ⨯ ./app/page.js:2:1
+Module not found: Can't resolve '@/components/siteData'
+  1 | import Link from "next/link";
+> 2 | import { phoneDisplay, phoneHref, styleSections } from "@/components/siteData";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | const heroImage = styleSections[0].images[0];
+  5 |
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:20:30.767] Server  ERROR    ⨯ ./app/page.js:2:1
+Module not found: Can't resolve '@/components/siteData'
+  1 | import Link from "next/link";
+> 2 | import { phoneDisplay, phoneHref, styleSections } from "@/components/siteData";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | const heroImage = styleSections[0].images[0];
+  5 |
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:20:30.768] Server  ERROR    ⨯ ./app/layout.js:2:1
+Module not found: Can't resolve '@/components/SiteShell'
+  1 | import "./globals.css";
+> 2 | import { Header, Footer, FloatingCallButton } from "@/components/SiteShell";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "Summora Cabinetry",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:20:30.768] Server  ERROR    ⨯ ./app/layout.js:2:1
+Module not found: Can't resolve '@/components/SiteShell'
+  1 | import "./globals.css";
+> 2 | import { Header, Footer, FloatingCallButton } from "@/components/SiteShell";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "Summora Cabinetry",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:20:30.769] Server  ERROR    ⨯ ./app/layout.js:2:1
+Module not found: Can't resolve '@/components/SiteShell'
+  1 | import "./globals.css";
+> 2 | import { Header, Footer, FloatingCallButton } from "@/components/SiteShell";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "Summora Cabinetry",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:20:30.770] Server  ERROR    ⨯ ./app/layout.js:2:1
+Module not found: Can't resolve '@/components/SiteShell'
+  1 | import "./globals.css";
+> 2 | import { Header, Footer, FloatingCallButton } from "@/components/SiteShell";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "Summora Cabinetry",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:20:30.771] Server  ERROR    ⨯ ./app/page.js:2:1
+Module not found: Can't resolve '@/components/siteData'
+  1 | import Link from "next/link";
+> 2 | import { phoneDisplay, phoneHref, styleSections } from "@/components/siteData";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | const heroImage = styleSections[0].images[0];
+  5 |
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:20:30.774] Server  ERROR    ⨯ ./app/page.js:2:1
+Module not found: Can't resolve '@/components/siteData'
+  1 | import Link from "next/link";
+> 2 | import { phoneDisplay, phoneHref, styleSections } from "@/components/siteData";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | const heroImage = styleSections[0].images[0];
+  5 |
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:20:30.776] Server  ERROR    ⨯ ./app/page.js:2:1
+Module not found: Can't resolve '@/components/siteData'
+  1 | import Link from "next/link";
+> 2 | import { phoneDisplay, phoneHref, styleSections } from "@/components/siteData";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | const heroImage = styleSections[0].images[0];
+  5 |
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:20:30.778] Server  ERROR    ⨯ ./app/page.js:2:1
+Module not found: Can't resolve '@/components/siteData'
+  1 | import Link from "next/link";
+> 2 | import { phoneDisplay, phoneHref, styleSections } from "@/components/siteData";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | const heroImage = styleSections[0].images[0];
+  5 |
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:20:30.780] Server  ERROR    ⨯ ./app/layout.js:2:1
+Module not found: Can't resolve '@/components/SiteShell'
+  1 | import "./globals.css";
+> 2 | import { Header, Footer, FloatingCallButton } from "@/components/SiteShell";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "Summora Cabinetry",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:20:30.781] Server  ERROR    ⨯ ./app/layout.js:2:1
+Module not found: Can't resolve '@/components/SiteShell'
+  1 | import "./globals.css";
+> 2 | import { Header, Footer, FloatingCallButton } from "@/components/SiteShell";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "Summora Cabinetry",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:20:30.781] Server  ERROR    ⨯ ./app/layout.js:2:1
+Module not found: Can't resolve '@/components/SiteShell'
+  1 | import "./globals.css";
+> 2 | import { Header, Footer, FloatingCallButton } from "@/components/SiteShell";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "Summora Cabinetry",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:20:30.782] Server  ERROR    ⨯ ./app/layout.js:2:1
+Module not found: Can't resolve '@/components/SiteShell'
+  1 | import "./globals.css";
+> 2 | import { Header, Footer, FloatingCallButton } from "@/components/SiteShell";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "Summora Cabinetry",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:20:30.783] Server  ERROR    ⨯ ./app/page.js:2:1
+Module not found: Can't resolve '@/components/siteData'
+  1 | import Link from "next/link";
+> 2 | import { phoneDisplay, phoneHref, styleSections } from "@/components/siteData";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | const heroImage = styleSections[0].images[0];
+  5 |
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:20:30.785] Server  ERROR    ⨯ ./app/page.js:2:1
+Module not found: Can't resolve '@/components/siteData'
+  1 | import Link from "next/link";
+> 2 | import { phoneDisplay, phoneHref, styleSections } from "@/components/siteData";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | const heroImage = styleSections[0].images[0];
+  5 |
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:20:30.788] Server  ERROR    ⨯ ./app/page.js:2:1
+Module not found: Can't resolve '@/components/siteData'
+  1 | import Link from "next/link";
+> 2 | import { phoneDisplay, phoneHref, styleSections } from "@/components/siteData";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | const heroImage = styleSections[0].images[0];
+  5 |
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:20:30.789] Server  ERROR    ⨯ ./app/page.js:2:1
+Module not found: Can't resolve '@/components/siteData'
+  1 | import Link from "next/link";
+> 2 | import { phoneDisplay, phoneHref, styleSections } from "@/components/siteData";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | const heroImage = styleSections[0].images[0];
+  5 |
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:20:30.791] Server  ERROR    ⨯ ./app/layout.js:2:1
+Module not found: Can't resolve '@/components/SiteShell'
+  1 | import "./globals.css";
+> 2 | import { Header, Footer, FloatingCallButton } from "@/components/SiteShell";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "Summora Cabinetry",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:20:30.791] Server  ERROR    ⨯ ./app/layout.js:2:1
+Module not found: Can't resolve '@/components/SiteShell'
+  1 | import "./globals.css";
+> 2 | import { Header, Footer, FloatingCallButton } from "@/components/SiteShell";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "Summora Cabinetry",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:20:30.794] Server  ERROR    ⨯ ./app/layout.js:2:1
+Module not found: Can't resolve '@/components/SiteShell'
+  1 | import "./globals.css";
+> 2 | import { Header, Footer, FloatingCallButton } from "@/components/SiteShell";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "Summora Cabinetry",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:20:30.794] Server  ERROR    ⨯ ./app/layout.js:2:1
+Module not found: Can't resolve '@/components/SiteShell'
+  1 | import "./globals.css";
+> 2 | import { Header, Footer, FloatingCallButton } from "@/components/SiteShell";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "Summora Cabinetry",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:20:30.795] Server  ERROR    ⨯ ./app/page.js:2:1
+Module not found: Can't resolve '@/components/siteData'
+  1 | import Link from "next/link";
+> 2 | import { phoneDisplay, phoneHref, styleSections } from "@/components/siteData";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | const heroImage = styleSections[0].images[0];
+  5 |
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:20:30.798] Server  ERROR    ⨯ ./app/page.js:2:1
+Module not found: Can't resolve '@/components/siteData'
+  1 | import Link from "next/link";
+> 2 | import { phoneDisplay, phoneHref, styleSections } from "@/components/siteData";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | const heroImage = styleSections[0].images[0];
+  5 |
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:20:30.800] Server  ERROR    ⨯ ./app/page.js:2:1
+Module not found: Can't resolve '@/components/siteData'
+  1 | import Link from "next/link";
+> 2 | import { phoneDisplay, phoneHref, styleSections } from "@/components/siteData";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | const heroImage = styleSections[0].images[0];
+  5 |
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:20:30.801] Server  ERROR    ⨯ ./app/page.js:2:1
+Module not found: Can't resolve '@/components/siteData'
+  1 | import Link from "next/link";
+> 2 | import { phoneDisplay, phoneHref, styleSections } from "@/components/siteData";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | const heroImage = styleSections[0].images[0];
+  5 |
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
