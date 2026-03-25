@@ -9,7 +9,6 @@ export function Header() {
         <div className="nav-title">Summora Cabinetry</div>
       </div>
       <div className="nav-links">
-        <a href={`tel:${phoneHref}`} className="call-pill">Call: {phoneDisplay}</a>
         <Link href="/" className="nav-text-link">Home</Link>
         <Link href="/gallery" className="nav-text-link">Gallery</Link>
         <Link href="/about" className="nav-text-link">About</Link>
@@ -31,7 +30,9 @@ export function Footer() {
             <div>Beautiful kitchens. Professionally installed.</div>
           </div>
         </div>
-        <a href={`tel:${phoneHref}`} style={{ fontWeight: 700, color: '#1c1917' }}>{phoneDisplay}</a>
+        <a href={`tel:${phoneHref}`} style={{ fontWeight: 700, color: '#1c1917' }}>
+          {phoneDisplay}
+        </a>
       </div>
     </footer>
   );
@@ -39,6 +40,8 @@ export function Footer() {
 
 export function FloatingCallButton() {
   return (
-    <a href={`tel:${phoneHref}`} className="floating-call">Call {phoneDisplay}</a>
+    <a href={`tel:${phoneHref}`} className="floating-call">
+      Call {phoneDisplay}
+    </a>
   );
 }
