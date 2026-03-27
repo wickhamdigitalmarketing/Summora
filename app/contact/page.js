@@ -36,10 +36,9 @@ export default function ContactPage() {
             >
               {/* 🔥 Helps label your emails */}
               <input type="hidden" name="_subject" value="New Quote Request - Summora" />
-
+         <input type="hidden" name="_redirect" value="https://summorahome.com/thank-you" />
               {/* 🔥 (Add later when you create thank-you page) */}
-              {/* <input type="hidden" name="_redirect" value="https://summorahome.com/thank-you" /> */}
-
+             
               <input
                 className="input"
                 name="name"
