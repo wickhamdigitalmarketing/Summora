@@ -66,7 +66,7 @@ export default function ContractorsPage() {
 
             <form
               className="form-grid"
-              action="https://formspree.io/f/meepolnk"
+              action="https://formspree.io/f/mojpjdzp"
               method="POST"
             >
               <input
