@@ -34,10 +34,9 @@ export default function ContactPage() {
               action="https://formspree.io/f/meepolnk"
               method="POST"
             >
-              {/* 🔥 Helps label your emails */}
+             
               <input type="hidden" name="_subject" value="New Quote Request - Summora" />
          <input type="hidden" name="_redirect" value="https://summorahome.com/thank-you" />
-              {/* 🔥 (Add later when you create thank-you page) */}
              
               <input
                 className="input"
