@@ -1,3 +1,4 @@
+import Script from "next/script";
 import "./globals.css";
 import { Header, Footer, FloatingCallButton } from "@/components/SiteShell";
 
@@ -14,6 +15,13 @@ export default function RootLayout({ children }) {
         {children}
         <Footer />
         <FloatingCallButton />
+
+        <Script
+          id="hs-script-loader"
+          strategy="afterInteractive"
+          src="//js-na2.hs-scripts.com/245951858.js"
+        />
+
       </body>
     </html>
   );
