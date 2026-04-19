@@ -24,6 +24,20 @@ export default function HomePage() {
               <Link href="/contact" className="btn-light">Get My Quote</Link>
               <a href={`tel:${phoneHref}`} className="btn-dark">Call Now</a>
             </div>
+<div style={{ marginTop: "20px" }}>
+  <a 
+    href="/summora-kitchen-quote.pdf" 
+    download 
+    className="btn-gold"
+    style={{ display: "inline-block" }}
+  >
+    Download Free Quote Packet
+  </a>
+
+  <p style={{ marginTop: "8px", fontSize: "0.9rem", opacity: 0.8 }}>
+   Free planning guide + fast custom quote
+  </p>
+</div>
           </div>
         </div>
       </section>
